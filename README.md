@@ -6,4 +6,7 @@ _A Pico-8 Rougelike built following the excellent [Lazy Devs Academy's Porklike 
 </p>
 
 ## But why?
-I love creating simple things, Lua is a new language, there's procedural generation, and most of all, Pico-8 looks rad! 
+- I love creating simple things 
+- Lua is a new language for me
+- Procedural generation
+- Pico-8 looks rad! 
